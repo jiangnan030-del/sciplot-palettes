@@ -1,10 +1,10 @@
 # sciplot-palettes
 
-> 科研绘图配色方案库 —— 16 套经过精心调校的学术图表配色，覆盖东方美学、顶级期刊、色盲友好、连续/发散色板。
+> 科研绘图配色方案库 —— 22 套经过精心调校的学术图表配色，覆盖东方美学、顶级期刊、色盲友好、连续/发散色板。
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Palettes](https://img.shields.io/badge/Palettes-16-purple.svg)
+![Palettes](https://img.shields.io/badge/Palettes-22-purple.svg)
 
 ---
 
@@ -43,6 +43,12 @@
 | **晴初雪霁** | ⬜🟨🟦🩶 | `#eaedf1` `#ede3cd` `#c0cee2` `#b9c7d5` | 雪后初晴，冷暖交融 |
 | **三分缠绵** | ⬛🟫🟥🟤 | `#232323` `#691d09` `#831100` `#381a1a` | 浓郁深沉，视觉冲击 |
 | **月亮速递** | 🤍⬜💙🩵 | `#fffae5` `#ffffff` `#d4e3fe` `#caf0fe` | 明亮通透，清新治愈 |
+| **蜜桃栀子** | 🤍🩶🤎🍑 | `#f0e9e7` `#d2beb5` `#c2a395` `#ffe2d6` | 暖棕粉，温柔知性 |
+| **雨打梨花** | 🟢💛🟢🟩 | `#bcd2b5` `#f8fadb` `#e0edd4` `#a3c5a3` | 嫩绿米黄，清新淡雅 |
+| **荔枝冰酿** | 🤍🌸🍒🧊 | `#f2eaec` `#e7c9ca` `#ba0b32` `#d1ede8` | 白红+薄荷，冷暖碰撞 |
+| **荷花池** | 🩷🩵💚🟢 | `#f4ebee` `#d8ebe6` `#d4ddc9` `#669c35` | 粉白+翠绿，江南意境 |
+| **椰乳桂花** | 💛⬜💛🩶 | `#fffadd` `#ffffff` `#fffbb9` `#c9c5ba` | 奶白+黄灰，温暖治愈 |
+| **白兰青茶** | ⬜💚🩵💚 | `#ebeeee` `#cce8b5` `#c9ddd5` `#b8c9aa` | 清茶灰绿，清淡雅致 |
 
 ### 学术期刊系列
 

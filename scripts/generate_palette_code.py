@@ -50,6 +50,48 @@ PALETTES: Dict[str, Dict] = {
         "description": "明亮通透，奶白与浅蓝交织，清新治愈",
         "colors": ["#fffae5", "#ffffff", "#d4e3fe", "#caf0fe"],
     },
+    "peach-gardenia": {
+        "name_cn": "蜜桃栀子",
+        "category": "categorical",
+        "series": "东方美学",
+        "description": "蜜桃与栀子的暖调交织，温柔知性",
+        "colors": ["#f0e9e7", "#d2beb5", "#c2a395", "#ffe2d6"],
+    },
+    "pear-blossom-rain": {
+        "name_cn": "雨打梨花",
+        "category": "categorical",
+        "series": "东方美学",
+        "description": "雨后梨花，清新淡雅的豆绿色调",
+        "colors": ["#bcd2b5", "#f8fadb", "#e0edd4", "#a3c5a3"],
+    },
+    "lychee-ale": {
+        "name_cn": "荔枝冰酿",
+        "category": "categorical",
+        "series": "东方美学",
+        "description": "荔枝红与薄荷青的冷暖碰撞，适合突出重点",
+        "colors": ["#f2eaec", "#e7c9ca", "#ba0b32", "#d1ede8"],
+    },
+    "lotus-pond": {
+        "name_cn": "荷花池",
+        "category": "categorical",
+        "series": "东方美学",
+        "description": "荷塘月色，粉白与翠绿的江南意境",
+        "colors": ["#f4ebee", "#d8ebe6", "#d4ddc9", "#669c35"],
+    },
+    "coconut-osmanthus": {
+        "name_cn": "椰乳桂花",
+        "category": "categorical",
+        "series": "东方美学",
+        "description": "秋日桂花与椰奶的温暖治愈感",
+        "colors": ["#fffadd", "#ffffff", "#fffbb9", "#c9c5ba"],
+    },
+    "mint-tea": {
+        "name_cn": "白兰青茶",
+        "category": "categorical",
+        "series": "东方美学",
+        "description": "清茶一杯，清淡雅致的灰绿色调",
+        "colors": ["#ebeeee", "#cce8b5", "#c9ddd5", "#b8c9aa"],
+    },
     # --- 经典学术期刊系列 ---
     "nature-classic": {
         "name_cn": "Nature 经典",
