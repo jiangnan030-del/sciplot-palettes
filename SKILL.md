@@ -1,6 +1,6 @@
 ---
 name: sciplot-palettes
-description: "科研绘图配色方案库与代码生成工具。当用户需要为学术论文、科研图表选择配色方案，或需要在 matplotlib/seaborn/Origin 中应用专业科研配色时使用。收录 22 套配色（东方美学 10 套 + 学术期刊 3 套 + 色盲友好 2 套 + 连续色板 4 套 + 发散色板 3 套）。触发场景包括：(1) 论文投稿图表配色推荐；(2) matplotlib/seaborn 自定义色板设置；(3) 色盲友好配色选择；(4) 热图/柱状图/折线图配色方案查询；(5) 东方美学/学术期刊风格配色需求。"
+description: "科研绘图配色方案库与代码生成工具。当用户需要为学术论文、科研图表选择配色方案，或需要在 matplotlib/seaborn/Origin 中应用专业科研配色时使用。收录 28 套配色（东方美学 10 套 + 中国传统色 6 套 + 学术期刊 3 套 + 色盲友好 2 套 + 连续色板 4 套 + 发散色板 3 套）。触发场景包括：(1) 论文投稿图表配色推荐；(2) matplotlib/seaborn 自定义色板设置；(3) 色盲友好配色选择；(4) 热图/柱状图/折线图配色方案查询；(5) 东方美学/中国传统色/学术期刊风格配色需求。"
 ---
 
 # Sciplot Palettes — 科研绘图配色方案库
@@ -54,6 +54,12 @@ python scripts/generate_palette_code.py code moon-express --format css
 | 东方美学 | lotus-pond（荷花池） | 4 | 环境生态、水生生物 |
 | 东方美学 | coconut-osmanthus（椰乳桂花） | 4 | 食品科学、浅色主题 |
 | 东方美学 | mint-tea（白兰青茶） | 4 | 茶学、医学可视化 |
+| 中国传统色 | qinglv-landscape（青绿山水） | 5 | 地理、环境、地质梯度数据 |
+| 中国传统色 | forbidden-city（故宫印象） | 5 | 人文社科、文化遗产 |
+| 中国传统色 | ink-wash（水墨丹青） | 5 | 黑白打印、方法示意图 |
+| 中国传统色 | dunhuang-mural（敦煌壁画） | 5 | 考古、材料矿物分析 |
+| 中国传统色 | jiangnan-mist（江南烟雨） | 5 | 生态学、水文、食品科学 |
+| 中国传统色 | moonlit-blossom（花朝月夜） | 5 | 植物学、药学、生命科学 |
 | 学术期刊 | nature-classic（Nature 经典） | 8 | 多类别分组柱状图 |
 | 学术期刊 | science-minimal（Science 简约） | 8 | 多系列折线图、散点图 |
 | 学术期刊 | publication-ready（投稿标准） | 8 | 通用出版，兼容性最好 |

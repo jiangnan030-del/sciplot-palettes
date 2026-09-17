@@ -92,6 +92,49 @@ PALETTES: Dict[str, Dict] = {
         "description": "清茶一杯，清淡雅致的灰绿色调",
         "colors": ["#ebeeee", "#cce8b5", "#c9ddd5", "#b8c9aa"],
     },
+    # --- 中国传统色系列 ---
+    "qinglv-landscape": {
+        "name_cn": "青绿山水",
+        "category": "sequential",
+        "series": "中国传统色",
+        "description": "千里江山图青绿山水，五级蓝绿渐变，适合梯度数据",
+        "colors": ["#134857", "#6C9BCA", "#AED9D4", "#C6E3E1", "#E8F4F0"],
+    },
+    "forbidden-city": {
+        "name_cn": "故宫印象",
+        "category": "categorical",
+        "series": "中国传统色",
+        "description": "故宫红墙黄瓦，冷暖对比鲜明，流黄为强调色",
+        "colors": ["#2E292B", "#652B1C", "#D4A017", "#6C9BCA", "#FFF8E7"],
+    },
+    "ink-wash": {
+        "name_cn": "水墨丹青",
+        "category": "sequential",
+        "series": "中国传统色",
+        "description": "焦浓重淡清五色墨阶，纯灰度，黑白打印完美兼容",
+        "colors": ["#2E292B", "#474B4C", "#9C9CA4", "#B5AA90", "#F8F4E9"],
+    },
+    "dunhuang-mural": {
+        "name_cn": "敦煌壁画",
+        "category": "categorical",
+        "series": "中国传统色",
+        "description": "敦煌矿物颜料：赭石、石黄、石绿、石青、紫",
+        "colors": ["#8B4513", "#D4A017", "#3B7A57", "#134857", "#7E2065"],
+    },
+    "jiangnan-mist": {
+        "name_cn": "江南烟雨",
+        "category": "categorical",
+        "series": "中国传统色",
+        "description": "江南水乡烟雨朦胧，藕荷与青白柔和交织",
+        "colors": ["#EEF7F2", "#C6E3E1", "#AED9D4", "#EDC3AE", "#E9CCD3"],
+    },
+    "moonlit-blossom": {
+        "name_cn": "花朝月夜",
+        "category": "categorical",
+        "series": "中国传统色",
+        "description": "花朝月夜魏紫与初荷，粉紫渐变层次清晰",
+        "colors": ["#F9F4DC", "#EDC3AE", "#E16C96", "#7E1671", "#6C9BCA"],
+    },
     # --- 经典学术期刊系列 ---
     "nature-classic": {
         "name_cn": "Nature 经典",
